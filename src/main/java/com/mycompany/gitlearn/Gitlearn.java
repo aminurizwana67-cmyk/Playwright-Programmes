@@ -11,6 +11,6 @@ package com.mycompany.gitlearn;
 public class Gitlearn {
 
     public static void main(String[] args) {
-        System.out.println("Hello ghio World! javajavapython");
+        System.out.println("Hello ghio World! welcometojavajavapython");
     }
 }
